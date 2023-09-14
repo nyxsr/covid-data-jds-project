@@ -52,7 +52,7 @@ function Navbar({ logo = image.noImage }: NavbarProps) {
         <p className="fixed bottom-5 ">2023 &copy; Kementerian Sosial</p>
       </Drawer>
       <img
-        className="w-[10rem] md:w-[8rem] object-contain"
+        className="w-[6rem] md:w-[8rem] object-contain"
         src={logo}
         alt="nav-logo"
       />
