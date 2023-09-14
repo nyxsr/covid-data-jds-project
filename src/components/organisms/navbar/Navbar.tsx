@@ -49,7 +49,7 @@ function Navbar({ logo = image.noImage }: NavbarProps) {
             Lihat Data
           </Link>
         </div>
-        <p className="fixed bottom-5 ">2023 &copy; Kementerian Kesehatan</p>
+        <p className="fixed bottom-5 ">2023 &copy; Kementerian Sosial</p>
       </Drawer>
       <img
         className="w-[10rem] md:w-[8rem] object-contain"

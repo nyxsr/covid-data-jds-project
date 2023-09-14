@@ -7,7 +7,7 @@ function index() {
     <BaseLayout>
       <Helmet>
         <title>
-          Isi Data Penerima Bansos | Kementerian Kesehatan Republik Indonesia
+          Isi Data Penerima Bansos | Kementerian Sosial Republik Indonesia
         </title>
       </Helmet>
       <FormData />
